@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/4lve/Roblox/main/PetSimX.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptRUs/Banana/main/PetSimulatorX.lua"))()
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/ScriptRUs/Ryans/main/PetSimulatorXAutofarm.lua'))()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerDashDash/PetSimulatorX/main/PetSimulatorXV2.lua",true))()
+ 
